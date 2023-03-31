@@ -1,19 +1,4 @@
 
-
-
-
-
- REMEMBER TO CREATE ANCHOR TAGS FOR TABLE FOR CONTENTS
-
-
-
-
-
-
-
-
-
-
 # AUTOMATE INFRASTRUCTURE WITH IAC USING TERRAFORM PART 1
 
 ## Table of Contents
@@ -38,7 +23,7 @@
 
 ### Introduction
 
-In the previous project [Link to the project here](), we manually implemented an AWS Infrastructure as Code. This project is the first part of a four-part series. Here we will automate the infrastructure using Terraform. Terraform is an open-source infrastructure as code (IaC) tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON. Terraform generates an execution plan describing what it will do to reach the desired state and then executes it to build the described infrastructure. As the configuration changes, Terraform can determine what changed and create incremental execution plans which can be applied.
+In the previous project [Link to the project here](https://github.com/Goddhi/MANUALLY-IMPLEMENTING-AWS-CLOUD-SOLUTION-FOR-2-COMPANY-WEBSITES-USING-A-REVERSE-PROXY-TECHNOLOGY), we manually implemented an AWS Infrastructure as Code. This project is the first part of a four-part series. Here we will automate the infrastructure using Terraform. Terraform is an open-source infrastructure as code (IaC) tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionaslly JSON. Terraform generates an execution plan describing what it will do to reach the desired state and then executes it to build the described infrastructure. As the configuration changes, Terraform can determine what changed and create incremental execution plans which can be applied.
 
 ![resource-architecture](Images/resource-architecture.png)
 
