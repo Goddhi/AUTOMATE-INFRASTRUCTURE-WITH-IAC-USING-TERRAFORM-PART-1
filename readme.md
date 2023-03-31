@@ -17,23 +17,23 @@
 # AUTOMATE INFRASTRUCTURE WITH IAC USING TERRAFORM PART 1
 
 ## Table of Contents
-Introduction
-prerequisites
-Create an S3 bucket
-Creating our Terraform project
-Setup Terraform CLI
-Provider and VPC resource section
-Subnets resource section
-Observations
-Fixing The Problems By Code Refactoring
-Fixing Hard Coded Values
-Fixing Multiple Resource Blocks
-Making the cidr_block dynamic
-Removing the hard code count value
-Introducing variables.tf & terraform.tfvars
-variables.tf
-terraform.tfvars
-Conclusion
+- [Introduction](https://github.com/Goddhi/Terraform-part1#introduction)
+- [prerequisites](https://github.com/Goddhi/Terraform-part1#prerequisites)
+- [Create an S3 bucket](https://github.com/Goddhi/Terraform-part1#create-an-s3-bucket)
+- [Creating our Terraform project](https://github.com/Goddhi/Terraform-part1#creating-our-terraform-project)
+- [Setup Terraform CLI](https://github.com/Goddhi/Terraform-part1#setup-terraform-cli)
+- [Provider and VPC resource section](https://github.com/Goddhi/Terraform-part1#provider-and-vpc-resource-section)
+- [Subnets resource section](https://github.com/Goddhi/Terraform-part1#subnets-resource-section)
+- [Observations](https://github.com/Goddhi/Terraform-part1#observations)
+- [Fixing The Problems By Code Refactoring](https://github.com/Goddhi/Terraform-part1#fixing-the-problems-by-code-refactoring)
+- [Fixing Hard Coded Values](https://github.com/Goddhi/Terraform-part1#fixing-hard-coded-values)
+- [Fixing Multiple Resource Blocks](https://github.com/Goddhi/Terraform-part1#fixing-multiple-resource-blocks)
+- [Making the cidr_block dynamic](https://github.com/Goddhi/Terraform-part1#making-the-cidr_block-dynamic)
+- [Removing the hard code count value](https://github.com/Goddhi/Terraform-part1#removing-the-hard-code-count-value)
+- [Introducing variables.tf & terraform.tfvars](https://github.com/Goddhi/Terraform-part1#introducing-variablestf--terraformtfvars)
+- [variables.tf](https://github.com/Goddhi/Terraform-part1#variablestf)
+- [terraform.tfvars](https://github.com/Goddhi/Terraform-part1#terraformtfvars)
+- [Conclusion](https://github.com/Goddhi/Terraform-part1#conclusion)
 
 
 ### Introduction
