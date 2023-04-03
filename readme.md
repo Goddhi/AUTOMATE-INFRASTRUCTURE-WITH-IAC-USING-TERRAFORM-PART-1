@@ -190,7 +190,7 @@ We will introduce variables, and remove hard coding.
 
 ```
 
-Let's do the same to the 'cidr' value in the 'vpc' block and all the other arguments.
+Let's do the same to the 'cidr' value in the 'vpc' block and all the other arguments..
 
 ```
 
