@@ -1,5 +1,5 @@
 
-# AUTOMATE INFRASTRUCTURE WITH IAC USING TERRAFORM PART 1
+### AUTOMATE INFRASTRUCTURE WITH IAC USING TERRAFORM PART 1
 
 ## Table of Contents
 - [Introduction](https://github.com/Goddhi/Terraform-part1#introduction)
