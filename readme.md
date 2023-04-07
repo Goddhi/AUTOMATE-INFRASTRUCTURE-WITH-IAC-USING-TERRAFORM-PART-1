@@ -31,7 +31,7 @@ In the previous project [Link to the project here](https://github.com/Goddhi/MAN
 
 - AWS Account
 - AWS CLI installed and configured
-- Create an IAM user and name it terraform and ensure you grant it - - AdministratorAccess permissions also grant it programmatic access
+- Create an IAM user and name it terraform and ensure you grant it - - AdministratorAccess permissions also grant it programmatic access.
 - Configure programmatic access from your local machine to connect to AWS using the access keys generated for the user and a python sdk called boto3.
 
 [Guide on hoe to create IAM user and grant it programmatical access](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)
