@@ -385,6 +385,3 @@ terraform plan
 ```
 ### Conclusion
 We have learned how to create and delete AWS network infrastructure programmatically with Terraform. We have also learned how to use variables, data sources, and functions to make our code more dynamic and reusable. We have also learned how to use the terraform console to experiment with the code and how to use the terraform plan command to check for errors before applying the changes.
-
-
-...
